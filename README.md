@@ -1,7 +1,5 @@
 <div align="center">
 
-# IIL-CLSF
-
 # Rethinking Softmax in Incremental Learning
 
 </div>
