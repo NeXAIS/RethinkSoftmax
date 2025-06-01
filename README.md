@@ -2,13 +2,13 @@
 
 # IIL-CLSF
 
-# Improving Incremental Learning: A Closer Look at the Softmax Function
+# Rethinking Softmax in Incremental Learning
 
 </div>
 
 
 
-We implement our work (IIL-CLSF) on FACIL framework. The implementation of our method (IIL-CLSF) as well as the rest of our configured versions can be found on [IIL-CLSF/src/approach](https://github.com/Zhangjl128/IIL-CLSF/tree/master/src/approach)
+We implement our work on FACIL framework. 
 
 # Abatract
 
