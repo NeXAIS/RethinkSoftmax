@@ -44,7 +44,7 @@ chmod +x run.sh  # Make the script executable
 
 
 <div align=center>
-<img src="https://github.com/Zhangjl128/IIL-CLSF/blob/master/pictures/cifar-100.jpg" > 
+<img src="https://github.com/NeXAIS/RethinkSoftmax/blob/main/pictures/cifar-100.jpg" > 
 </div>
 
 ## ImageNet-100
