@@ -52,7 +52,7 @@ chmod +x run.sh  # Make the script executable
 
 
 <div align=center>
-<img src="https://github.com/Zhangjl128/IIL-CLSF/blob/master/pictures/imagenet-100.jpg" > 
+<img src="https://github.com/NeXAIS/RethinkSoftmax/blob/main/pictures/imagenet-100.jpg" > 
 </div>
 
 # Acknowledgement
