@@ -47,7 +47,7 @@ chmod +x run.sh  # Make the script executable
 <img src="https://github.com/NeXAIS/RethinkSoftmax/blob/main/pictures/cifar-100.jpg" > 
 </div>
 
-## ImageNet-100
+## Results on other datasets
 
 
 
